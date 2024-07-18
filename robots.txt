@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rocederite.github.io/sitemap
+Sitemap: https://rocederite.github.io/app/sitemap
+Sitemap: https://rocederite.github.io/assets/sitemap
+Sitemap: https://rocederite.github.io/css/sitemap
+Sitemap: https://rocederite.github.io/includes/sitemap
+Sitemap: https://rocederite.github.io/item/sitemap
+Sitemap: https://rocederite.github.io/src/sitemap
